@@ -1,8 +1,8 @@
 <br />
 
 <p align="center">
-<a href="https://e-complaints.herokuapp.com/">
-<img src="https://raw.githubusercontent.com/adarshaacharya/E-Complaints/master/docs/github_cover.png" alt="github_cover" />
+<!-- <a href="https://e-complaints.herokuapp.com/"> -->
+<!-- <img src="https://raw.githubusercontent.com/adarshaacharya/E-Complaints/master/docs/github_cover.png" alt="github_cover" /> -->
 
 </a>
 </p>
@@ -29,7 +29,7 @@
 A complaint management system to send the compaints to different departments by user. The complaints can be forwaded by admin as per nature of complaints and will be responded by the respective staff.
 </p>
 
-## 🛠 Installation & Set Up 
+## 🛠 Installation & Set Up
 
 Start developing locally.
 
